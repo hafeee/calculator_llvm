@@ -15,12 +15,6 @@ Commands should end with a semicolon (;) to indicate the end of an expression. F
 1 + 15 * 3 - 6;
 
 
-Commands should end with a semicolon/; (for example):
-
-1+15*3-6; 
-
-
-
 ## Build and Run
 
 To build the calculator, use the following command:
