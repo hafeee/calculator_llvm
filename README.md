@@ -1,6 +1,6 @@
 # Small LLVM Calculator
 
-This is a small calculator for the interview process at Exaloop. It supports the following operands:
+This is a small calculator compiler. It supports the following operands:
 
 - \- (Subtraction)
 - \+ (Addition)
